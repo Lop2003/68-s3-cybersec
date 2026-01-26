@@ -1,4 +1,5 @@
 # Cyber Security
 
-## Owner (Thananan Detmongkhonsri)
+## Owner
  - 6702041511233
+ - Thananan Detmongkhonsri
